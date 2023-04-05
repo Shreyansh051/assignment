@@ -1,0 +1,14 @@
+[
+    {
+      "label": "Orders",
+      "value": 345,
+      "icon": "shopping-cart"
+    },
+    {
+      "label": "Revenue",
+      "value": 12450,
+      "icon": "dollar-sign"
+    }
+   
+  ]
+  
