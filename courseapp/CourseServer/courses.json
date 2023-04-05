@@ -1,0 +1,40 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "name": " Computer Science",
+        "StartDate": "27 Jan 2023",
+        "LessonCompleted": "20/55(38%)",
+        "Duration": "18h 58m 56s"
+      },
+      {
+        "id": 2,
+        "name": "Object Oriented Programming",
+        "StartDate": "28 Feb 2023",
+        "LessonCompleted": "30/55(38%)",
+        "Duration": "17h 35m 56s"
+      },
+      {
+        "id": 3,
+        "name": "Data Structures and Algorithms",
+        "StartDate": "1 march 2023",
+        "LessonCompleted": "75/100(75%) ",
+        "Duration": "21h 38m 56s"
+      },
+      {
+        "id": 4,
+        "name": " Web Development",
+        "StartDate": "28 april 2023",
+        "LessonCompleted": "10/25(48%)",
+        "Duration":"15h 38m 56s"
+      },
+      {
+        "id": 5,
+        "name": "UI/UX Design",
+        "StartDate": "1 june 2023",
+        "LessonCompleted": "30/25(48%) ",
+        "Duration": "7h 38m 56s"
+      }
+    ]
+  }
+  
